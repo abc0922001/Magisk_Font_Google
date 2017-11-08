@@ -1,7 +1,7 @@
-id=pirasalbebellotafont
-name=Bellota Font
-version=1.8
-versionCode=18
+id=pirasalbegoogleproductsans
+name=Google Product Sans
+version=1.0
+versionCode=10
 author=pirasalbe
-description=Systemlessly apply Bellota font
+description=Systemlessly apply Google Product Sans
 template=1400
