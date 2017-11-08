@@ -1,5 +1,5 @@
-# Magisk Product Sans Font
-* [Systemlessly] Product Sans Font
+# Magisk Font Google
+* [Systemlessly] Google Product Sans
 * [Tesing Device] Google Nexus 4 Android Lollipop
 * [Tesing Device] Google Nexus 6 Android Marshmallow
 * [Tesing Device] OnePlus 5 Android Nougat
@@ -8,7 +8,7 @@
 <img src="http://theinspirationroom.com/daily/design/2015/9/product_sans_font.png" height="272" width="512" alt="Screenshot" height="720px">
 
 ## Contact ##
-* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Bellota/issues">Commit an Issues</a>
+* <a href="https://github.com/pirasalbe/Magisk_Font_Google/issues">Commit an Issues</a>
 * <a href="https://t.me/pirasalbe">Telegram</a>
 
 ## Donate ##
