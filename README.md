@@ -5,7 +5,7 @@
 * [Tesing Device] OnePlus 5 Android Nougat
 
 ## Screenshot ##
-<img src="https://dl2.pushbulletusercontent.com/AdFMRydfkCcxkGTVpZN1GS8jtIlnAG5S/804729222_41877.jpg" height="519" width="291">
+<img src="https://dl2.pushbulletusercontent.com/pIgKn9xO6K46dmlitpE5gtn8U0oF6ZM0/Screenshot_2017-11-10-19-21-54.png" height="519" width="291">
 
 ## Contact ##
 * <a href="https://github.com/pirasalbe/Magisk_Font_Google/issues">Commit an Issues</a>

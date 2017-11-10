@@ -42,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "          Google Font         "
+  ui_print "      Google Product Sans      "
   ui_print "*******************************"
 }
 
