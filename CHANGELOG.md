@@ -1,9 +1,9 @@
-# Magisk Bellota Font
+# Magisk Google Product Sans
 ## Changelog ##
 #### 1.2 ####
 * Updated font files
 * Removed fallback. **It is no longer needed**
-* Removed AndroidClock.tff
+* Removed AndroidClock.ttf
 
 #### 1.1 ####
 * Updated fallback from Android Oreo
