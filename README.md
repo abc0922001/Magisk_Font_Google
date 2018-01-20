@@ -10,7 +10,7 @@
 * [Tesing Device] OnePlus 5 Android Nougat/Oreo
 
 ## Contact ##
-* <a href="https://github.com/pirasalbe/Magisk_Font_Google/issues">Commit an Issues</a>
+* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Google/issues">Commit an Issues</a>
 * <a href="https://t.me/pirasalbe">Telegram</a>
 
 ## Donate ##
