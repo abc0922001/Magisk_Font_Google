@@ -1,7 +1,7 @@
 id=pirasalbegoogleproductsans
 name=Google Product Sans
-version=1.1
-versionCode=11
+version=2.0C
+versionCode=200
 author=pirasalbe
 description=Systemlessly apply Google Product Sans
-template=1400
+minMagisk=1500
