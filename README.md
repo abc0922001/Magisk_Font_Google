@@ -1,7 +1,7 @@
 # Magisk Font Google
 
 ## Versions ##
-* <a href="https://dl2.pushbulletusercontent.com/qSmLBz6KjYWEdj4Wj1xNxbrdE0oSHjXw/2.0C.zip">2.0C</a> Font more condensed
+* <a href="https://dl2.pushbulletusercontent.com/b2psky2kbfTbj3KLdLCRMHqOz9Ukgc5B/2.0C.zip">2.0C</a> Font more condensed
 * <a href="https://dl2.pushbulletusercontent.com/9fedcycIxcTjRfWwho4alKpRA3TjnxC9/2.0R.zip">2.0R</a> Font more regular
 
 ## Testing devices ##
