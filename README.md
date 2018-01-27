@@ -9,8 +9,11 @@
 * [Tesing Device] Google Nexus 6 Android Marshmallow
 * [Tesing Device] OnePlus 5 Android Nougat/Oreo
 
+## Known bug ##
+* Lockscreen colon in some rom (e.g. <a href="https://lh3.googleusercontent.com/KN5DBjF9OwCla-aaGC7dqXtRezCXT6NhDRJvHpUwT3tFw5uJOTFaW2su--30VRxTU0oD3EZb6WIIbQabVVu5O6OZDE8s=s341">Pixel Experience</a>) doesn't show. You can use a <a href="https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens&hl=en">substratum</a> theme to hide it
+
 ## Contact ##
-* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Google/issues">Commit an Issues</a>
+* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Google/issues">Commit an Issue</a>
 * <a href="https://t.me/pirasalbe">Telegram</a>
 
 ## Donate ##
@@ -18,6 +21,29 @@
 
 ## Screenshot ##
 <img src="https://dl2.pushbulletusercontent.com/pIgKn9xO6K46dmlitpE5gtn8U0oF6ZM0/Screenshot_2017-11-10-19-21-54.png" height="519" width="291">
+
+## Changelog ##
+#### 2.1R ####
+* Font more regular
+* Fix config
+
+#### 2.1C ####
+* Font more condensed
+* Fix config
+
+#### 2.0R ####
+* Font more regular
+* Updated magisk module template 1500
+
+#### 2.0C ####
+* Font more condensed
+* Updated magisk module template 1500
+
+#### 1.1 ####
+* Updated fonts
+
+##### Previous versions #####
+Test versions
 
 ## Thanks ##
 * <a href="https://github.com/topjohnwu">topjohnwu</a>
