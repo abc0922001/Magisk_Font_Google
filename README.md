@@ -1,8 +1,8 @@
 # Magisk Font Google
 
 ## Versions ##
-* <a href="https://dl2.pushbulletusercontent.com/b2psky2kbfTbj3KLdLCRMHqOz9Ukgc5B/2.0C.zip">2.0C</a> Font more condensed
-* <a href="https://dl2.pushbulletusercontent.com/9fedcycIxcTjRfWwho4alKpRA3TjnxC9/2.0R.zip">2.0R</a> Font more regular
+* <a href="https://dl2.pushbulletusercontent.com/AbPn3ZDVJpyosVzIZBdjFlS2fZL7PCqC/Google_Product_Sans-2.1C.zip">2.1C</a> Font more condensed
+* <a href="https://dl2.pushbulletusercontent.com/EyM6MplApRS7HYZ8GzCIs4zlBJk17Pqd/Google_Product_Sans-2.1R.zip">2.1R</a> Font more regular
 
 ## Testing devices ##
 * [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
@@ -10,7 +10,7 @@
 * [Tesing Device] OnePlus 5 Android Nougat/Oreo
 
 ## Known bug ##
-* Lockscreen colon in some rom (e.g. <a href="https://lh3.googleusercontent.com/KN5DBjF9OwCla-aaGC7dqXtRezCXT6NhDRJvHpUwT3tFw5uJOTFaW2su--30VRxTU0oD3EZb6WIIbQabVVu5O6OZDE8s=s341">Pixel Experience</a>) doesn't show. You can use a <a href="https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens&hl=en">substratum</a> theme to hide it
+* Lockscreen colon may not show in some rom (e.g. <a href="https://lh3.googleusercontent.com/KN5DBjF9OwCla-aaGC7dqXtRezCXT6NhDRJvHpUwT3tFw5uJOTFaW2su--30VRxTU0oD3EZb6WIIbQabVVu5O6OZDE8s=s341">Pixel Experience</a>). You can use a <a href="https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens&hl=en">substratum</a> theme to hide it
 
 ## Contact ##
 * <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Google/issues">Commit an Issue</a>
