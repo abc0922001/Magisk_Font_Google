@@ -1,7 +1,7 @@
-id=pirasalbegoogleproductsans
-name=Google Product Sans
-version=2.1R
-versionCode=211
-author=pirasalbe
-description=Systemlessly apply Google Product Sans
+id=NotoSans
+name=Noto Sans
+version=v1
+versionCode=1
+author=abc0922001
+description=Systemlessly apply Noto Sans
 minMagisk=1500
