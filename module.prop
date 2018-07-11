@@ -1,7 +1,7 @@
-id=NotoSans
-name=Noto Sans
+id=OpenSans
+name=Open Sans
 version=v1
 versionCode=1
 author=abc0922001
-description=Systemlessly apply Noto Sans
+description=Systemlessly apply Open Sans
 minMagisk=1500
